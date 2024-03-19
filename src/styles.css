@@ -9,18 +9,15 @@ h2 {
 }
 h3 {
    color: #00a1ff;
-}
-p {
-   color: #00a1ff;
-}              
-#copyright {
+}          
+#right-down {
    color: #00a1ff;
    position: absolute;
    bottom: 0;        
    right: 0;
    text-align: right;
 }
-#musicplayer {
+#left-down {
   left: 0;
   position: absolute;
   bottom: 0;
