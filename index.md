@@ -1,6 +1,8 @@
 # Hi there!
 [Music.](https://wersdfxcvlwy.github.io/music)
 
+[Blogs.](https://wersdfxcvlwy.github.io/blogs)
+
 [Find Me.](https://wersdfxcvlwy.github.io/findme)
 
 [Suggestions.](https://wersdfxcvlwy.github.io/suggestions)
