@@ -1,4 +1,4 @@
-### Before starting you may do them.
+# Before starting you may do them.
 
 ## For https://cdimage.ubuntu.com/kubuntu/releases/23.10/release/kubuntu-23.10-desktop-amd64.iso
 
@@ -8,7 +8,7 @@ sudo apt install gcc-aarch64-linux-gnu libssl-dev
 
 sudo pacman -S aarch64-linux-gnu-gcc
 
-# Set proton-clang
+### Set proton-clang
 
 cd
 
@@ -24,13 +24,13 @@ export ARCH=arm64
 
 export CC=clang
 
-# Set android_kernel_xiaomi_msm8953
+### Set android_kernel_xiaomi_msm8953
 
 cd
 
 git clone https://github.com/xiaomi-msm8953-devs/android_kernel_xiaomi_msm8953.git --depth 1
 
-# Build kernel for sakura
+### Build kernel for sakura
 
 cd
 
