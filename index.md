@@ -3,7 +3,8 @@
 
 [Blogs.](https://wersdfxcvlwy.github.io/blogs)
 
-[Find Me.](https://wersdfxcvlwy.github.io/findme)
-
 [Suggestions.](https://wersdfxcvlwy.github.io/suggestions)
+
+Find me at [Gitee.](https://gitee.com/wersdfxcvlwy) or 
+[Github.](https://github.com/wersdfxcvlwy)
 <span style="position:absolute;bottom:0;right:0;text-align:right">Copyright 2022-2023 wersdfxcvlwy.All Rights Reserved.</span>
