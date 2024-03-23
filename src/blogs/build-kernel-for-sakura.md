@@ -1,13 +1,3 @@
-# Before starting you may do them.
-
-## For https://cdimage.ubuntu.com/kubuntu/releases/23.10/release/kubuntu-23.10-desktop-amd64.iso
-
-#### sudo apt install gcc-aarch64-linux-gnu libssl-dev
-
-## For https://download.manjaro.org/gnome/23.1.3/manjaro-gnome-23.1.3-minimal-240113-linux66.iso
-
-#### sudo pacman -S aarch64-linux-gnu-gcc
-
 ### Set proton-clang
 
 #### cd
