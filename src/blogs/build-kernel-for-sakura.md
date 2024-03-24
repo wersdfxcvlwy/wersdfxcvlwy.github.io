@@ -19,4 +19,5 @@
 ### `make ARCH=arm64 CC=clang O=out msm8953-perf_defconfig`
 ### `make ARCH=arm64 O=out CC=clang -j8`
 
+### Find me at [Github](https://github.com/wersdfxcvlwy).
 ### Copyright 2022-2024 y.All Rights Reserved.
