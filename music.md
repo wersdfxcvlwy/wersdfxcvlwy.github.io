@@ -1,4 +1,5 @@
 # Music
+## You can use Ctrl + F to search one which you like.
 
 ## 陈粒
 ### [小半](https://music.163.com/#/song?id=421423806)

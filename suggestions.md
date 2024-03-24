@@ -1,4 +1,5 @@
 # Suggestions
+## You can use Ctrl + F to search one which you like.
 
 ## [微信](https://weixin.qq.com)
 ## [希沃白板5](https://easinote.seewo.com)
