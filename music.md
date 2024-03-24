@@ -19,4 +19,4 @@
 ### [倒数](https://music.163.com/#/mv?id=5965351)
 ### [多远都要在一起](https://music.163.com/#/mv?id=384709)
 
-### <span style="position:absolute;top:0;right:0;text-align:right">Copyright 2022-2024 y.All Rights Reserved.</span>
+### Copyright 2022-2024 y.All Rights Reserved.
